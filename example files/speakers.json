@@ -1,10 +1,1975 @@
 {
-	"568":{
-		"SPEAKER_00": "Rhonda Patrick"
+	"200":{
+		"SPEAKER_0": "Duncan Trussell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_01": "Joe Rogan"
+		}
+	,"201":{
+		"SPEAKER_00": "EverLast"
+		,"SPEAKER_07": "EverLast 2"
+		,"SPEAKER_08": "EverLast Singing"
+		,"SPEAKER_00": "Young Jaime"
+		,"SPEAKER_05": "Joe Rogan"
+		}
+	,"202":{
+		"SPEAKER_06": "Dom Irrera"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"203":{
+		"SPEAKER_06": "Jim Jefferies"
+		,"SPEAKER_01": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"204":{
+		"SPEAKER_01": "Amy Schumer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_05": "Young Jaime"
+		}
+	,"205":{
+		"SPEAKER_01": "Neal Brennan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_00": "Young Jaime"
+		}
+	,"206":{
+		"SPEAKER_05": "Eddie Bravo"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_12": "Young Jaime"
+		}
+	,"208":{
+		"SPEAKER_03": "Freeway Rick Ross"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_00": "Young Jaime"
+		}
+	,"209":{
+		"SPEAKER_09": "Eddie Ifft"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_04": "Young Jaime"
+		}
+	,"210":{
+		"SPEAKER_06": "Joey Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_10": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"212":{
+		"SPEAKER_03": "Bryan Callen"
+		,"SPEAKER_01": "Misc"
+		,"SPEAKER_00": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"213":{
+		"SPEAKER_07": "Eddie Bravo"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"214":{
+		"SPEAKER_05": "Duncan Trussell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"215":{
+		"SPEAKER_07": "Andrew Dice Clay"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"216":{
+		"SPEAKER_00": "Chael Sonnen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"217":{
+		"SPEAKER_03": "Michael Ruppert"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"218":{
+		"SPEAKER_13": "Dom Irrera"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_01": "Young Jaime"
+		}
+	,"219":{
+		"SPEAKER_09": "Joey Diaz"
+		,"SPEAKER_10": "Alex Jones"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_01": "Young Jaime"
+		}
+	,"220":{
+		"SPEAKER_04": "Bert Kreischer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_07": "Young Jaime"
+		}
+	,"221":{
+		"SPEAKER_00": "Shane Smith"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"223":{
+		"SPEAKER_09": "Bobcat Goldthwait"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"224":{
+		"SPEAKER_03": "Brian Redban"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"225":{
+		"SPEAKER_01": "Urijah Faber"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"226":{
+		"SPEAKER_00": "John Anthony West"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"227":{
+		"SPEAKER_02": "Ari Shaffir"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"228":{
+		"SPEAKER_03": "Bill Burr"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"230":{
+		"SPEAKER_04": "Sam Sheridan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"231":{
+		"SPEAKER_05": "Dom Irrera"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"232":{
+		"SPEAKER_00": "Giorgio Tsoukalos"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"233":{
+		"SPEAKER_08": "Jim Norton"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_09": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"234":{
+		"SPEAKER_06": "Adam Scorgie"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_08": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"236":{
+		"SPEAKER_04": "Eddie Bravo"
+		,"SPEAKER_01": "Joey Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"237":{
+		"SPEAKER_06": "Tommy Chong"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"238":{
+		"SPEAKER_05": "Kevin Pereira"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"239":{
+		"SPEAKER_01": "Adam Kokesh"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"241":{
+		"SPEAKER_08": "James Bobo Fay"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"242":{
+		"SPEAKER_02": "Justin Halpern"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"243":{
+		"SPEAKER_14": "Honey Honey"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"244":{
+		"SPEAKER_08": "Immortal Technique"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"245":{
+		"SPEAKER_05": "Robb Wolf"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"247":{
+		"SPEAKER_00": "Tito Ortiz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"248":{
+		"SPEAKER_01": "Tom Rhodes"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"249":{
+		"SPEAKER_10": "Bert Kreischer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_11": "Young Jaime"
+		}
+	,"250":{
+		"SPEAKER_01": "Joey CoCo Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"251":{
+		"SPEAKER_00": "Bryan Callen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"252":{
+		"SPEAKER_05": "Jamie Kilstein"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"253":{
+		"SPEAKER_00": "Andrew Dice Clay"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"254":{
+		"SPEAKER_08": "Everlast"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"255":{
+		"SPEAKER_04": "Duncan Trussell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"256":{
+		"SPEAKER_10": "David Seaman"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_04": "Young Jaime"
+		}
+	,"258":{
+		"SPEAKER_00": "Bryan Callen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"259":{
+		"SPEAKER_03": "Mike Birbiglia"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"260":{
+		"SPEAKER_01": "Greg Fitzsimmons"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_00": "Young Jaime"
+		}
+	,"261":{
+		"SPEAKER_00": "Ari Shaffir"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_08": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"262":{
+		"SPEAKER_04": "Freeway Rick Ross"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"266":{
+		"SPEAKER_03": "Rich Roll"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"267":{
+		"SPEAKER_08": "Mac Danzig"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"268":{
+		"SPEAKER_00": "Joey CoCo Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"269":{
+		"SPEAKER_00": "Tait Fletcher"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"270":{
+		"SPEAKER_07": "Kevin Pereira"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"271":{
+		"SPEAKER_00": "London Real"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"273":{
+		"SPEAKER_08": "Amber Lyon"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"274":{
+		"SPEAKER_00": "Alex Grey"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"275":{
+		"SPEAKER_03": "Dave Asprey"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"277":{
+		"SPEAKER_05": "Victor Conte"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"278":{
+		"SPEAKER_09": "Ari Shaffir"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"279":{
+		"SPEAKER_05": "Duncan Trussell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"280":{
+		"SPEAKER_00": "Philip Coppens"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"281":{
+		"SPEAKER_01": "Bryan Callen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"283":{
+		"SPEAKER_04": "Dave Attell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"284":{
+		"SPEAKER_05": "Daniel H. Wilson"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"285":{
+		"SPEAKER_03": "Tim Ferriss"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"286":{
+		"SPEAKER_01": "Daniele Bolelli"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"287":{
+		"SPEAKER_05": "Les Stroud"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_09": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"288":{
+		"SPEAKER_06": "Greg Proops"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"289":{
+		"SPEAKER_04": "Shane Smith"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"291":{
+		"SPEAKER_01": "Duncan Trussell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"292":{
+		"SPEAKER_14": "Eddie Bravo"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_09": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"293":{
+		"SPEAKER_01": "Cara Santamaria"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"294":{
+		"SPEAKER_03": "Ari Shaffir"
+		,"SPEAKER_00": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_05": "Young Jaime" 
+		}
+	,"297":{
+		"SPEAKER_03": "Dom Irrera"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_11": "Joe Rogan"
+		,"SPEAKER_00": "Young Jaime"
+		}
+	,"298":{
+		"SPEAKER_02": "Dennis McKenna"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"299":{
+		"SPEAKER_03": "Honey Honey"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_15": "Joe Rogan"
+		,"SPEAKER_06": "Young Jaime"
+		}
+	,"300":{
+		"SPEAKER_03": "Joey Diaz"
 		,"SPEAKER_01": "Misc"
 		,"SPEAKER_02": "Joe Rogan"
-		}   
-	
-	
-	
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"301":{
+		"SPEAKER_07": "Doug Stanhope"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_10": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"302":{
+		"SPEAKER_00": "Josh Barnett"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"303":{
+		"SPEAKER_09": "Matt Vengrin"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"304":{
+		"SPEAKER_07": "Andrew Dice Clay"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_01": "Young Jaime"
+		}
+	,"306":{
+		"SPEAKER_05": "Christopher Ryan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"307":{
+		"SPEAKER_01": "Bryan Callen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"308":{
+		"SPEAKER_00": "Steve Volk"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"309":{
+		"SPEAKER_06": "Adam Hunter"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Alex Jones"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"310":{
+		"SPEAKER_03": "Neil Degrasse Tyson"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"311":{
+		"SPEAKER_06": "Ari Shaffir"
+		,"SPEAKER_01": "Misc"
+		,"SPEAKER_14": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"313":{
+		"SPEAKER_03": "Opie"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"314":{
+		"SPEAKER_03": "Ian Edwards"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_01": "Young Jaime"
+		}
+	,"315":{
+		"SPEAKER_06": "Jimmy Smith"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_00": "Young Jaime"
+		}
+	,"319":{
+		"SPEAKER_00": "Alex Honnold"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_06": "Young Jaime"
+		}
+	,"320":{
+		"SPEAKER_03": "Tim Ferriss"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"321":{
+		"SPEAKER_02": "Melissa Etheridge"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"322":{
+		"SPEAKER_06": "Ari Shaffir"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_04": "Young Jaime"
+		}
+	,"323":{
+		"SPEAKER_03": "Freeway Rick Ross"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_02": "Young Jaime"
+		}
+	,"324":{
+		"SPEAKER_04": "Sam Sheridan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"325":{
+		"SPEAKER_00": "James The Colossus Thompson"
+		,"SPEAKER_05": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"327":{
+		"SPEAKER_01": "Dana White"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"328":{
+		"SPEAKER_04": "Dan Carlin"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"329":{
+		"SPEAKER_13": "Duncan Trussell"
+		,"SPEAKER_03": "Quinton Tarrentino"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"330":{
+		"SPEAKER_01": "Eddie Huang"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"331":{
+		"SPEAKER_02": "Dr. Steven Greer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"332":{
+		"SPEAKER_03": "Tom Segura"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"333":{
+		"SPEAKER_00": "David Lee Roth"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"334":{
+		"SPEAKER_00": "Dr. Amit Goswami"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"335":{
+		"SPEAKER_03": "Bas Rutten"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"336":{
+		"SPEAKER_04": "Scott Sigler"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"337":{
+		"SPEAKER_00": "Justin Wren"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"338":{
+		"SPEAKER_07": "Shane Smith"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"339":{
+		"SPEAKER_02": "Jacob Ward"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"340":{
+		"SPEAKER_04": "JD Kelley"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"341":{
+		"SPEAKER_07": "Ben Hoffman"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"342":{
+		"SPEAKER_05": "Dr. Christopher Ryan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"343":{
+		"SPEAKER_06": "Bill Burr"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"345":{
+		"SPEAKER_02": "Bryan Callen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_11": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"346":{
+		"SPEAKER_01": "Douglas Rushkoff"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"347":{
+		"SPEAKER_02": "Joey Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"349":{
+		"SPEAKER_01": "Greg Fitzsimmons"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"350":{
+		"SPEAKER_08": "Tony Hinchcliffe"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_07": "Young Jaime"
+		}
+	,"351":{
+		"SPEAKER_03": "Georges St. Pierre"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"352":{
+		"SPEAKER_11": "Tom Segura"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_14": "Joey Coco Diaz"
+		,"SPEAKER_13": "Joe Rogan"
+		,"SPEAKER_07": "Young Jaime"
+		}
+	,"353":{
+		"SPEAKER_00": "Brian Redban"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"355":{
+		"SPEAKER_07": "Dom Irrera"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"356":{
+		"SPEAKER_06": "Dan Hardy"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"357":{
+		"SPEAKER_00": "Daniele Bolelli"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"358":{
+		"SPEAKER_03": "Bert Kreischer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"359":{
+		"SPEAKER_08": "Alex Grey"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"360":{
+		"SPEAKER_07": "Graham Hancock"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"362":{
+		"SPEAKER_00": "Eddie Ifft"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"363":{
+		"SPEAKER_03": "Everlast Singing"
+		,"SPEAKER_06": "Everlast"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_08": "Joe Rogan"
+		,"SPEAKER_01": "Young Jaime"
+		}
+	,"364":{
+		"SPEAKER_03": "Tom Rhodes"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_08": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"366":{
+		"SPEAKER_03": "Bobcat Goldthwait"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"367":{
+		"SPEAKER_00": "Aubrey Marcus"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"368":{
+		"SPEAKER_05": "David Seaman"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"371":{
+		"SPEAKER_00": "Rick Doblin"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_01": "Young Jaime"
+		}
+	,"372":{
+		"SPEAKER_01": "Mariana van Zeller"
+		,"SPEAKER_05": "Darren"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"373":{
+		"SPEAKER_08": "Joey CoCo Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"374":{
+		"SPEAKER_02": "Marc Maron"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"375":{
+		"SPEAKER_10": "Shane Smith"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_07": "Young Jaime"
+		}
+	,"376":{
+		"SPEAKER_00": "Bryan Callen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"377":{
+		"SPEAKER_03": "Duncan Trussell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"378":{
+		"SPEAKER_06": "Dan Carlin"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"380":{
+		"SPEAKER_06": "Tony Hinchcliffe"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_08": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"381":{
+		"SPEAKER_11": "Abby Martin"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_09": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"382":{
+		"SPEAKER_05": "Greg Fitzsimmons"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"383":{
+		"SPEAKER_00": "Jim Norton"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"384":{
+		"SPEAKER_02": "Ian McCall"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"386":{
+		"SPEAKER_04": "Joey CoCo Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_09": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"387":{
+		"SPEAKER_05": "Everlast"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_08": "Joe Rogan"
+		,"SPEAKER_02": "Young Jaime"
+		}
+	,"389":{
+		"SPEAKER_10": "Brian Redban"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"390":{
+		"SPEAKER_07": "Mac Lethal"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"391":{
+		"SPEAKER_02": "Duncan Trussell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_08": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"392":{
+		"SPEAKER_02": "David Choe"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_01": "Young Jaime"
+		}
+	,"393":{
+		"SPEAKER_02": "Tom Segura"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_14": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"395":{
+		"SPEAKER_03": "Kathleen Madigan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"396":{
+		"SPEAKER_03": "Stefan Molyneux"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"398":{
+		"SPEAKER_00": "Sam Tripoli"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"399":{
+		"SPEAKER_03": "Buck Angel"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"401":{
+		"SPEAKER_09": "Doug Benson"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_08": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"402":{
+		"SPEAKER_07": "Bryan Callen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_08": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"404":{
+		"SPEAKER_02": "Greg Proops"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"407":{
+		"SPEAKER_00": "Eddie Bravo"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"408":{
+		"SPEAKER_08": "Todd Glass"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"409":{
+		"SPEAKER_02": "Pat Magee"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"410":{
+		"SPEAKER_00": "Sam Harris"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"411":{
+		"SPEAKER_01": "Dave Asprey"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"412":{
+		"SPEAKER_00": "Maynard James Keenan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"414":{
+		"SPEAKER_03": "Cmdr. Chris Hadfield"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"415":{
+		"SPEAKER_04": "Justin Foster"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_13": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"416":{
+		"SPEAKER_04": "Ana Kasparian"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"417":{
+		"SPEAKER_01": "Graham Hancock"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"421":{
+		"SPEAKER_00": "Christopher Ryan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"422":{
+		"SPEAKER_09": "Greg Fitzsimmons"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"423":{
+		"SPEAKER_09": "Gene LeBell"
+		,"SPEAKER_07": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"424":{
+		"SPEAKER_05": "Brody Stevens"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"425":{
+		"SPEAKER_08": "Phil Demers"
+		,"SPEAKER_01": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"426":{
+		"SPEAKER_02": "Mike Birbiglia"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"427":{
+		"SPEAKER_08": "Cliffy B"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_09": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"428":{
+		"SPEAKER_03": "Tom Segura"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"429":{
+		"SPEAKER_03": "Lee Camp"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"432":{
+		"SPEAKER_02": "Joey CoCo Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"434":{
+		"SPEAKER_00": "Roseanne Barr"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_12": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"435":{
+		"SPEAKER_02": "Aubrey Marcus"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"436":{
+		"SPEAKER_02": "Stefan Molyneux"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"437":{
+		"SPEAKER_02": "Scott Sigler"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"438":{
+		"SPEAKER_00": "Dr. Mark Gordon"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"440":{
+		"SPEAKER_08": "Dom Irrera"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"441":{
+		"SPEAKER_00": "Brian Dunning"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"442":{
+		"SPEAKER_00": "Steven Rinella"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"443":{
+		"SPEAKER_07": "Neal Brennan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_09": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"444":{
+		"SPEAKER_04": "John Hackleman"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"445":{
+		"SPEAKER_00": "Peter Schiff"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"446":{
+		"SPEAKER_00": "Andreas Antonopoulos"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"447":{
+		"SPEAKER_01": "Cara Santa Maria"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"448":{
+		"SPEAKER_08": "Tom Segura"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"449":{
+		"SPEAKER_06": "Justin Martindale"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_14": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"450":{
+		"SPEAKER_00": "Cameron Hanes"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"451":{
+		"SPEAKER_01": "Aubrey Marcus"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"454":{
+		"SPEAKER_02": "War Machine"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"455":{
+		"SPEAKER_00": "Joey CoCo Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"456":{
+		"SPEAKER_07": "Everlast"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"457":{
+		"SPEAKER_10": "Ari Shaffir"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_06": "Young Jaime"
+		}
+	,"458":{
+		"SPEAKER_04": "Campbell McLaren"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"459":{
+		"SPEAKER_01": "Dr. Rhonda Patrick"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"460":{
+		"SPEAKER_01": "Kron Gracie"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"461":{
+		"SPEAKER_04": "David Seaman"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"463":{
+		"SPEAKER_11": "Louis Theroux"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"465":{
+		"SPEAKER_08": "Greg Proops"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"466":{
+		"SPEAKER_06": "Greg Fitzsimmons"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"467":{
+		"SPEAKER_00": "Peter Giuliano"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"469":{
+		"SPEAKER_00": "Dr. Carl Hart"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"470":{
+		"SPEAKER_02": "Amber Lyon"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"472":{
+		"SPEAKER_04": "Shane Smith"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"473":{
+		"SPEAKER_09": "Jim Jefferies"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"474":{
+		"SPEAKER_04": "Hannibal Buress"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"475":{
+		"SPEAKER_03": "Adam Carolla"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"476":{
+		"SPEAKER_05": "Honey Honey"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_03": "Young Jaime"
+		}
+	,"478":{
+		"SPEAKER_00": "Eddie Bravo"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"479":{
+		"SPEAKER_01": "Joel Salatin"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"483":{
+		"SPEAKER_03": "Mark Kendall"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"484":{
+		"SPEAKER_03": "Alexis Ohanian"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"485":{
+		"SPEAKER_09": "Amy Schumer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"487":{
+		"SPEAKER_00": "David Seaman"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"488":{
+		"SPEAKER_04": "Iliza Shlesinger"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"490":{
+		"SPEAKER_00": "Andreas Antonopoulos"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"491":{
+		"SPEAKER_02": "Steve Maxwell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"492":{
+		"SPEAKER_03": "Dave Attell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"493":{
+		"SPEAKER_02": "Greg Fitzsimmons"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"495":{
+		"SPEAKER_05": "Ian Edwards"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_09": "Joe Rogan"
+		,"SPEAKER_07": "Young Jaime"
+		}
+	,"496":{
+		"SPEAKER_00": "Nick Cutter"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"497":{
+		"SPEAKER_07": "Tim Kennedy"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"498":{
+		"SPEAKER_00": "Aubrey Marcus"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"499":{
+		"SPEAKER_04": "Cenk Uygur"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"501":{
+		"SPEAKER_00": "Randall Carlson"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"502":{
+		"SPEAKER_00": "Dr. Rhonda Patrick"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"503":{
+		"SPEAKER_05": "Sam Tripoli"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_12": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"504":{
+		"SPEAKER_05": "Steve Maxwell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"506":{
+		"SPEAKER_07": "Moshe Kasher"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"507":{
+		"SPEAKER_04": "Bert Kreischer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"509":{
+		"SPEAKER_00": "Steve Hilton"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+
+	,"511":{
+		"SPEAKER_00": "Enson Inoue"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"512":{
+		"SPEAKER_02": "Dan Savage"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"513":{
+		"SPEAKER_00": "Joey CoCo Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"514":{
+		"SPEAKER_01": "Duke Roufus"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"516":{
+		"SPEAKER_02": "Lewis, from Unbox Therapy"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"517":{
+		"SPEAKER_04": "Crash, from Float Lab"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"518":{
+		"SPEAKER_04": "Matt Fulchiron"
+		,"SPEAKER_08": "Joey CoCo Diaz"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_17": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"519":{
+		"SPEAKER_00": "Gad Saad"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"520":{
+		"SPEAKER_09": "David Seaman"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"521":{
+		"SPEAKER_01": "Lewis, from Unbox Therapy"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"522":{
+		"SPEAKER_00": "CJ Werleman"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"523":{
+		"SPEAKER_01": "Jim Norton"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"525":{
+		"SPEAKER_03": "Bert Kreischer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"526":{
+		"SPEAKER_01": "Isaac Haxton"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"527":{
+		"SPEAKER_00": "Ms. Pat"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"528":{
+		"SPEAKER_07": "Michael Stevens, from VSauce"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"529":{
+		"SPEAKER_01": "Abby Martin"
+		,"SPEAKER_00": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"531":{
+		"SPEAKER_05": "Nick Youssef"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_11": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"532":{
+		"SPEAKER_04": "Shooter Jennings"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"533":{
+		"SPEAKER_11": "Chris DElia"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_15": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"534":{
+		"SPEAKER_00": "Robin Black"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"535":{
+		"SPEAKER_04": "Scroobius Pip"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_13": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"536":{
+		"SPEAKER_00": "Joe Quirk"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"537":{
+		"SPEAKER_05": "Rich Vos"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"538":{
+		"SPEAKER_04": "Stefan Molyneux"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"539":{
+		"SPEAKER_04": "Cara Santa Maria"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"540":{
+		"SPEAKER_01": "Steven Rinella"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"541":{
+		"SPEAKER_05": "Mike Baker"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"542":{
+		"SPEAKER_14": "Greg Fitzsimmons"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"543":{
+		"SPEAKER_00": "Sam Harris"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"544":{
+		"SPEAKER_01": "Dom Irrera"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"545":{
+		"SPEAKER_02": "Tony Hinchcliffe"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"546":{
+		"SPEAKER_01": "Mike Dolce"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"547":{
+		"SPEAKER_10": "Joe DeRosa"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_07": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"548":{
+		"SPEAKER_03": "Tim Burnett"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"549":{
+		"SPEAKER_02": "Big Jay Oakerson"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"550":{
+		"SPEAKER_03": "Rupert Sheldrake"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"551":{
+		"SPEAKER_04": "Graham Hancock"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"552":{
+		"SPEAKER_04": "Kid Cudi"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"553":{
+		"SPEAKER_03": "Thaddeus Russell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"554":{
+		"SPEAKER_01": "W. Kamau Bell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"555":{
+		"SPEAKER_05": "Rory Albanese"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"556":{
+		"SPEAKER_02": "Bryan Callen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"557":{
+		"SPEAKER_06": "Bryan Callen"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"558":{
+		"SPEAKER_01": "Honey Honey"
+		,"SPEAKER_07": "Some Guy"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_09": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"559":{
+		"SPEAKER_02": "Keith Weber"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"560":{
+		"SPEAKER_04": "Anthony Cumia"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_10": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"561":{
+		"SPEAKER_02": "Bruce Damer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"562":{
+		"SPEAKER_00": "Paul Stanley"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"563":{
+		"SPEAKER_00": "David Choe"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"564":{
+		"SPEAKER_00": "Sturgill Simpson"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"565":{
+		"SPEAKER_00": "Trevor Valle"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"566":{
+		"SPEAKER_01": "Sue Aikens"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"567":{
+		"SPEAKER_04": "Cameron Hanes"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"568":{
+		"SPEAKER_00": "Dr. Rhonda Patrick"
+		,"SPEAKER_01": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"569":{
+		"SPEAKER_04": "Joe Perry"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"570":{
+		"SPEAKER_00": "Ryan Parsons"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"571":{
+		"SPEAKER_02": "Josh Zepps"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"573":{
+		"SPEAKER_05": "Daniele Bolelli"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"575":{
+		"SPEAKER_06": "Matt Fulchiron"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"576":{
+		"SPEAKER_01": "Jim Shockey"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"577":{
+		"SPEAKER_04": "Duncan Trussell"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"578":{
+		"SPEAKER_00": "Peter McGraw"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"579":{
+		"SPEAKER_02": "Rory MacDonald"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"580":{
+		"SPEAKER_02": "Lewis, from Unbox Therapy"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"581":{
+		"SPEAKER_02": "Andreas Antonopoulos"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"582":{
+		"SPEAKER_08": "David Seaman"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"583":{
+		"SPEAKER_02": "Bill Burr"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"584":{
+		"SPEAKER_01": "Zoltan Istvan"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"585":{
+		"SPEAKER_03": "John Heffron"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"587":{
+		"SPEAKER_03": "Ron Finley"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_04": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"588":{
+		"SPEAKER_01": "Philip DeFranco"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_05": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"589":{
+		"SPEAKER_03": "Chris Harris"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_00": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"590":{
+		"SPEAKER_05": "Ana Kasparian"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"591":{
+		"SPEAKER_07": "Kevin Pereira"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_02": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"592":{
+		"SPEAKER_04": "Bert Kreischer"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_10": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"593":{
+		"SPEAKER_03": "Josh Fox"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"594":{
+		"SPEAKER_07": "Russell Peters"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_03": "Joe Rogan"
+		,"SPEAKER_06": "Young Jaime"
+		}
+	,"595":{
+		"SPEAKER_09": "Nick DiPaolo"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_06": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
+	,"596":{
+		"SPEAKER_04": "Brian Stann"
+		,"SPEAKER_0!": "Misc"
+		,"SPEAKER_01": "Joe Rogan"
+		,"SPEAKER_0@": "Young Jaime"
+		}
 }

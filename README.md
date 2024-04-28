@@ -40,3 +40,7 @@ Finally, some software like Pratt or FFMPEG should be available cross-platform, 
     - Scratchpad for training a variety of neural network architectures - latest version was a simple linear-only model
   - Model Scratchpad JW Face.ipynb
     - Scratchpad for training the neural network model that used the 150x150 face-detected frames
+  - Charts for Paper.ipynb
+    - Code that was built proactively to showcase the predictive quality of our models
+    - Also contains code to take the slope of the prediction and correlate it to the actual slope of the data, which would have been conducive to creating an analytical data point that produces a result independent of the average of the predicted values, which we felt would not be useful / importaint as the deviations from the average.  
+    - Ultimately was limited in use to create some charts for the Final Project Video
